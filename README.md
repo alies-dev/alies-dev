@@ -1,6 +1,6 @@
 ## Hello world
 
-I’m a tech lead in a dev team on @[InteractionDesignFoundation](https://github.com/InteractionDesignFoundation).
+I’m currently working on @[InteractionDesignFoundation](https://github.com/InteractionDesignFoundation) as a tech lead.
 
 I have a passion to:
  - static analysis (I'm a [vimeo/psalm](https://github.com/vimeo/psalm) and [psalm-plugin-laravel](https://github.com/psalm/psalm-plugin-laravel) contributor)
